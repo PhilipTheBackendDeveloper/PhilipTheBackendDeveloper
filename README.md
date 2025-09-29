@@ -1,5 +1,5 @@
 <h1 align="center">👋Hey there, I'm Philip Odame Ayesu</h1>
-<h3 align="center">I’m a Computer Science student at Kwame Nkrumah University of Science and Technology (KNUST) with a strong passion for front-end development, mobile app design, and building sleek user interfaces with React Native. I love creating smooth, responsive experiences that users enjoy. I'm also the co-creator of InSnip — a Snapchat-style app designed for sharing quick snippets of life in a fun, fast, and intuitive way. Let’s build the future, one line of code at a time.</h3>
+<h3 align="center">I’m a Computer Science student at Kwame Nkrumah University of Science and Technology (KNUST) with a strong passion for front-end development, mobile app design, and building sleek user interfaces with React Native. I love creating smooth, responsive experiences that users enjoy. I'm also the co-creator of InSnip; a Snapchat-style app designed for sharing quick snippets of life in a fun, fast, and intuitive way. Let’s build the future, one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipthebackenddeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="philipthebackenddeveloper" /> </p>
 
