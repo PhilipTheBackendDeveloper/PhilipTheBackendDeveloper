@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipthebackenddeveloper" alt="philipthebackenddeveloper" /></a> </p>
 
-- 🔭 I’m currently working on [Bora_Capital]([https://github.com/PhilipTheBackendDeveloper/bora_capital_app])
+- 🔭 I’m currently working on [Bora_Capital](https://github.com/PhilipTheBackendDeveloper/bora_capital_app)
 
 - 🌱 I’m currently learning **ALX - Backend course,**
 
