@@ -64,9 +64,9 @@ https://github.com/PhilipTheBackendDeveloper/SwapShelf
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhilipTheBackendDeveloper&show_icons=true&theme=tokyonight&hide_border=true"/>
+[![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilipTheBackendDeveloper&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/PhilipTheBackendDeveloper)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTheBackendDeveloper&layout=compact&theme=tokyonight&hide_border=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTheBackendDeveloper&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/PhilipTheBackendDeveloper)
 
 </p>
 
