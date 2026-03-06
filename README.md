@@ -1,60 +1,73 @@
-<h1 align="center">Hi 👋, I'm Philip Odame Ayesu</h1>
+<h1 align="center">
+🚀 Philip Odame Ayesu
+</h1>
 
 <h3 align="center">
-Mobile App Developer • React Native Engineer • Computer Science Student @ KNUST
+Mobile App Developer • React Native Engineer • Computer Science @ KNUST
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Native+Developer;Mobile+App+Engineer;Startup+Builder;UI%2FUX+Lover;Building+The+Future+With+Code" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3000&color=F72585&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;React+Native+Engineer;Startup+Builder;Design+Driven+Developer" />
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React%20Native-Developer-blueviolet?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/JavaScript-Engineer-yellow?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/NodeJS-Backend-green?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/UI%20Focused-Builder-purple?style=for-the-badge&logo=figma"/>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🚀 Computer Science student at **Kwame Nkrumah University of Science and Technology (KNUST)**  
+✨ Computer Science student at **KNUST**
 
-📱 Passionate about **React Native & Mobile App Development**
+📱 Passionate about **Mobile App Development**
 
-⚡ I build **fast, clean and scalable mobile apps**
+⚡ Building **beautiful, fast and scalable applications**
 
-🧠 Currently learning **Backend Engineering (ALX)**
+🚀 Currently learning **Backend Engineering (ALX)**
 
-💡 I enjoy building **startups and real-world solutions**
+💡 I enjoy building **startups and real products**
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ### 💰 Bora Capital
-Mobile investment platform built with React Native  
+Mobile investment platform
 
-🔗  
 https://github.com/PhilipTheBackendDeveloper/bora_capital_app
 
 ---
 
 ### 📸 InSnip
-Snapchat-style social media app for sharing quick life moments  
+Snapchat-style social media platform
 
-🔗  
 https://github.com/PhilipTheBackendDeveloper/INSHIP_MAIN
 
 ---
 
 ### 📚 Book Connect
-Platform for exchanging, buying and renting textbooks  
+Platform for exchanging and renting textbooks
 
-🔗  
 https://github.com/PhilipTheBackendDeveloper/SwapShelf
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,express,mongodb,postgres,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nodejs,express,mongodb,postgres,git,github,figma,vscode" />
 
 </p>
 
@@ -64,9 +77,9 @@ https://github.com/PhilipTheBackendDeveloper/SwapShelf
 
 <p align="center">
 
-[![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilipTheBackendDeveloper&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/PhilipTheBackendDeveloper)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhilipTheBackendDeveloper&show_icons=true&theme=radical&hide_border=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTheBackendDeveloper&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/PhilipTheBackendDeveloper)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTheBackendDeveloper&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -76,49 +89,28 @@ https://github.com/PhilipTheBackendDeveloper/SwapShelf
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=PhilipTheBackendDeveloper&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=PhilipTheBackendDeveloper&theme=radical&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🌐 Portfolio
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhilipTheBackendDeveloper&theme=tokyo-night&hide_border=true"/>
+🚀 All projects
 
----
-
-# 🌍 Portfolio
-
-All my projects  
-
-🔗  
 https://github.com/PhilipTheBackendDeveloper/legendary-portfolio
 
 ---
 
-# 📫 Contact Me
+# 📫 Contact
 
-📧 Email: **odamephilip966@gmail.com**
+📧 odamephilip966@gmail.com
 
 ---
-
-# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PhilipTheBackendDeveloper&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=PhilipTheBackendDeveloper&label=Profile%20Views&color=ff0080&style=flat"/>
 
 </p>
-
----
-
-# ⚡ Fun Fact
-
-```javascript
-const philip = {
-  code: ["JavaScript", "TypeScript"],
-  tools: ["React Native", "Node.js", "MongoDB"],
-  architecture: ["Mobile Apps", "APIs"],
-  challenge: "Building scalable startups 🚀"
-}
