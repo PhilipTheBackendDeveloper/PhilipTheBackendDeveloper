@@ -9,9 +9,7 @@ Mobile App Developer • React Native Engineer • Computer Science @ KNUST
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3000&color=F72585&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;React+Native+Engineer;Startup+Builder;Design+Driven+Developer" />
 </p>
-
 ---
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/React%20Native-Developer-blueviolet?style=for-the-badge&logo=react"/>
