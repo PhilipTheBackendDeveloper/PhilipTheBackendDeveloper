@@ -97,7 +97,7 @@ https://github.com/PhilipTheBackendDeveloper/SwapShelf
 
 🚀 All projects
 
-https://github.com/PhilipTheBackendDeveloper/legendary-portfolio
+[https://github.com/PhilipTheBackendDeveloper/legendary-portfolio](https://philip-site-two.vercel.app/)
 
 ---
 
